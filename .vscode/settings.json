@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "dds.h": "c",
+        "alsa_record.h": "c"
+    }
+}
